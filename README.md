@@ -1,3 +1,5 @@
+## Composition
+
 I used Adonis.js as it's my favorite way to compose a Node.js RESTful API. The well defined design paired with an easy to use CLI provides a clear path on how to create a robust web service, and it keeps things clean and readable especially in a pinch.
 
 I like to prepend any controller logic with checks to ensure user input is clean and requested data exists. Here's how the request flows:
